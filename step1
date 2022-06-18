@@ -1,0 +1,3 @@
+## Load the dataset
+# Import the required libraries.
+import pandas as pd
