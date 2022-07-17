@@ -1,10 +1,21 @@
 # IBMproject
 ## About This Course
-In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
+You have recently been hired as a Data Analyst by a global IT and business consulting services firm that is known for their expertise in IT solutions and their team of highly experienced IT consultants.  In order to keep pace with changing technologies and remain competitive, your organization regularly analyzes data to help identify future skill requirements. 
 
-You will undertake the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard. The project will culminate with a presentation of your data analysis report, with an executive summary for the various stakeholders in the organization. You will be assessed on both your work for the various stages in the Data Analysis process, as well as the final deliverable. 
+As a Data Analyst, you will be assisting with this initiative and have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. 
 
-This project is a great opportunity to showcase your Data Analytics skills, and demonstrate your proficiency to potential employers.
+Analyze the data and identify insights and trends that may include the following:
+
+1. What are the top programming languages in demand?
+
+2. What are the top database skills in demand?
+
+3. What are the popular IDEs?
+
+You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases.   
+
+
+Once this is completed, you will make that data ready for analysis using data wrangling techniques. 
 
 ## About the files
 <b>M1ExploreDataSet-lab:</b> Use Python to explore and get familiar to the dataset. <br>
