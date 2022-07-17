@@ -7,8 +7,8 @@ You will undertake the tasks of collecting data from multiple sources, performin
 This project is a great opportunity to showcase your Data Analytics skills, and demonstrate your proficiency to potential employers.
 
 ## About the files
-M1ExploreDataSet-lab: Use Python to explore and get familiar to the dataset. <br>
-M2DataWrangling-lab: Use Python to find and remove the missing values and duplicate values. <br>
-M3ExploratoryDataAnalysis-lab: Use Python to find the distribution and correlation of data. <br>
-M4DataVisualization-lab: Use Python and SQL to visualize the data. <br>
-Capstone Presentation: Presentation of findings.
+<b>M1ExploreDataSet-lab:</b> Use Python to explore and get familiar to the dataset. <br>
+<b>M2DataWrangling-lab:</b> Use Python to find and remove the missing values and duplicate values. <br>
+<b>M3ExploratoryDataAnalysis-lab:</b> Use Python to find the distribution and correlation of data. <br>
+<b>M4DataVisualization-lab:</b> Use Python and SQL to visualize the data. <br>
+<b>Capstone Presentation:</b> Presentation of findings.
